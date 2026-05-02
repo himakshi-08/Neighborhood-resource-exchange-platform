@@ -4,7 +4,6 @@ A full-stack MERN application where community members can **lend and borrow** ev
 
  **Live Demo:** [https://neighborhood-resource-exchange-platform.onrender.com](https://neighborhood-resource-exchange-platform.onrender.com)
  
-**Demo Video Link:**  [https://drive.google.com/file/d/1-8rAp6MqpUXFRO6XDQY1YO7JkXOs3T0b/view?usp=sharing ].(https://drive.google.com/file/d/1-8rAp6MqpUXFRO6XDQY1YO7JkXOs3T0b/view?usp=sharing )
 ---
 
 ## 🎥 Project Demo & Resources
