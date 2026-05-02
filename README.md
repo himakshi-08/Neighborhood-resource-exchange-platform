@@ -12,7 +12,7 @@ A full-stack MERN application where community members can **lend and borrow** ev
 |----------|------|
 | 🎬 Demo Video | [Watch on Google Drive](https://drive.google.com/file/d/1xpaLNYPioy6-QQ-ynmbPmoBtJ9UyOv4Q/view?usp=sharing) |
 | 🧑‍💻 Code Explanation Video | [Watch on Google Drive](https://drive.google.com/file/d/1H-ga7xQ0hl-nz7jGS2aZDtOUJfjH8sot/view?usp=sharing) |
-| 📂 Code Drive Link | [GitHub Repository](https://github.com/himakshi-08/Neighborhood-resource-exchange-platform) |
+| 📂 Code Drive Link | [Watch on Google Drive](https://drive.google.com/drive/folders/1IPIjneMpOAie81ddj_6_XwE07h7heMQ5?usp=drive_link) |
 | 🖥️ Frontend Reference Video | [Watch on Google Drive](https://drive.google.com/file/d/1USbrfpc7KCzT9rEbdAOeJtxMF01rQVbP/view?usp=sharing) |
 | ⚙️ Backend Reference Video | [Watch on Google Drive](https://drive.google.com/file/d/1npFmGHsYwz2HD_Fe6nOUv9zkYyl6KA1j/view?usp=sharing) |
 
